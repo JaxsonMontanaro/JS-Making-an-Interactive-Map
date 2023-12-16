@@ -52,7 +52,7 @@ async function getFoursquare(business) {
 		method: 'GET',
 		headers: {
 		Accept: 'application/json',
-		Authorization: 'fsq3ATzZbmcGhdeFafr73wZcnJ+LlN6bK+4dh19a7ClS4u8='
+		Authorization: 'fsq3pNtHAVTnOTzxpHKoaZN50w/qYFYRUXjfy/Wm0eZBVeo='
 		}
 	}
 	let limit = 5
